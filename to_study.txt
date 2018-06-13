@@ -1,0 +1,10 @@
+
+1.	Kubernetes, and deployment 
+a.	Start with https://kubernetes.io/docs/home/?path=users&persona=app-developer&level=foundational (the developers journey)
+b.	Access to bootcamp folder and read all docs there and prepare question;
+c.	Pipeline demo from Soumen and Q&A session – Jorgette will organize
+d.	Helm Charting docs https://docs.helm.sh/developing_charts/ 
+e.	1 hour with Roberto about standard and best practice on kubernetes - – Jorgette will organize
+2.	Common services (secret service, user management, tenant management) – Jorgette will organize with Mihai from Petr Hollay’s team
+ 
+@Jorgette Ramos – Please advise if you need help from me. I also want to join these meetings from India.
